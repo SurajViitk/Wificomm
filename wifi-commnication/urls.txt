@@ -6,3 +6,5 @@ http://www.yudiz.com/communication-over-wifi-in-android/
 
 http://codeoncloud.blogspot.in/2014/06/android-tcpip-client-server-socket_15.html
 http://codeoncloud.blogspot.in/2014/06/android-tcpip-client-server-socket.html
+
+# a test url
